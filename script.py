@@ -1,9 +1,8 @@
 class Script(object):
-    START_TXT = """Hello {},
+    START_TXT = """ʜᴀʟʟᴏ {},
+ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>!
 
-My name is <a href=https://t.me/{}>{}</a>!
-
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+<b>ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs. 👉🏻 ʀᴇǫᴜᴇsᴛ @Kl53MOVIES 🔥. ꜰᴏʀ ᴍᴏʀᴇ ᴄᴏɴɴᴇᴄᴛ ʙᴏss @muhammed_salman 🎃. ᴍᴀᴅᴇ ɪɴ ɪɴᴅɪᴀ 🇮🇳
 
 Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
