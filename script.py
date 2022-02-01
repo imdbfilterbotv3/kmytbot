@@ -1,32 +1,28 @@
 class Script(object):
     START_TXT = """ʜᴀʟʟᴏ {},
 ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>!
+<b>ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs. 👉🏻 ʀᴇǫᴜᴇsᴛ @Kl53MOVIES 🔥. ꜰᴏʀ ᴍᴏʀᴇ ᴄᴏɴɴᴇᴄᴛ ʙᴏss @muhammed_salman 🎃. ᴍᴀᴅᴇ ɪɴ ɪɴᴅɪᴀ 🇮🇳.</b>"""
 
-<b>ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs. 👉🏻 ʀᴇǫᴜᴇsᴛ @Kl53MOVIES 🔥. ꜰᴏʀ ᴍᴏʀᴇ ᴄᴏɴɴᴇᴄᴛ ʙᴏss @muhammed_salman 🎃. ᴍᴀᴅᴇ ɪɴ ɪɴᴅɪᴀ 🇮🇳
+    HELP_TXT = """ʜᴇʏ 🧑🏼‍🚀 {}
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
+<b>ᴛʜɪs sᴇᴄᴛɪᴏɴ ɪs ᴏɴʟʏ ꜰᴏʀ ᴀᴅᴍɪɴs 🧞‍♂...</b>"""
 
-    HELP_TXT = """Hey {}
-
-<b>Here Is The Help For My Commands.</b>"""
-
-    ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
-➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-➥ Language: Python 𝟹
-➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
-➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
-➥ Build Status: v2.0.1 [ Beta ]"""
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {}
+🧑🏼‍🚀 ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/Rasputin98'>Rasputin</a>
+🔖 ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
+💭 ʟᴀɴɢᴜᴀɢᴇ: Python 𝟹
+🌍 ᴅᴀᴛᴀ ʙᴀsᴇ: <a href='https://www.mongodb.com/'>MongoDB</a>
+🌐 ʙᴏᴛ sᴇʀᴠᴇʀ: <a href='https://heroku.com'>Server</a>
+♻️ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+ᴛʜɪs ɪs ɴᴏᴛ ᴀ ᴏᴘᴇɴ ᴘʀᴏᴊᴇᴄᴛ 💡.
+Source: <a href='https://t.me/Rasputin98'> Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
-
+- <a href='https://t.me/Rasputin98'>Rasputin</a>
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/klmalayalimallu'>Join Group</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -53,7 +49,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/Rasputin98)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -233,11 +229,11 @@ This module only works for my admins
 • /channel - to get list of total connected channels.
 • /broadcast - to broadcast a message to all users."""
 
-    STATUS_TXT = """<b>Total Files:</b> <code>{}</code>
-<b>Total Users:</b> <code>{}</code>
-<b>Total Chats:</b> <code>{}</code>
-<b>Used Storage:</b> <code>{}</code> MiB
-<b>Free Storage:</b> <code>{}</code> MiB"""
+    STATUS_TXT = """<b>🗂 ᴛᴏᴛᴀʟ ꜰɪʟᴇs:</b> <code>{}</code>
+<b>🚷 ᴛᴏᴛᴀʟ ᴜsᴇʀs:</b> <code>{}</code>
+<b>⚠️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs:</b> <code>{}</code>
+<b>📪 ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB
+<b>📮 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB"""
 
     FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
 
