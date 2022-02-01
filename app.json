@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/josprojects/tgmoviebot",
-    "repository": "https://github.com/josprojects/tgmoviebot",
+    "repository": "https://github.com/Rasputintg/kmytbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
