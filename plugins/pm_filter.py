@@ -361,11 +361,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
             [
-                InlineKeyboardButton('support', url='https://t.me/JOSPSupport'),
-                InlineKeyboardButton('channel', url='https://t.me/JosProjects')
+                InlineKeyboardButton('support', url='https://t.me/Rasputin98'),
+                InlineKeyboardButton('channel', url='https://t.me/Rasputin98')
             ],
             [
-                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/klmalayalimallu')
             ]
             ]
             
@@ -415,11 +415,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{title}"
         buttons = [
             [
-                InlineKeyboardButton('support', url='https://t.me/JOSPSupport'),
-                InlineKeyboardButton('channel', url='https://t.me/JosProjects')
+                InlineKeyboardButton('support', url='https://t.me/Rasputin98'),
+                InlineKeyboardButton('channel', url='https://t.me/Rasputin98')
             ],
             [
-                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/klmalayalimallu')
             ]
             ]
         await query.answer()
